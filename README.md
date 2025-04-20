@@ -2,8 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amiynarh&color=blue)
 
-## 🏆 GitHub Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amiynarh&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Amiynarh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amiynarh&show_icons=true&theme=github_dark)
+
 
 DevOps Engineer | Cloud & Infrastructure Automation | 🎥 Tech Educator on [YouTube](https://youtube.com/@aminalawal3999)
 
