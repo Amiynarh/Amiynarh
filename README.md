@@ -4,9 +4,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amiynarh&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Amiynarh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amiynarh&show_icons=true&theme=github_dark)
-
-
+<!---![Amiynarh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amiynarh&show_icons=true&theme=github_dark)--->
+---
 DevOps Engineer | Cloud & Infrastructure Automation | 🎥 Tech Educator on [YouTube](https://youtube.com/@aminalawal3999)
 
 I’m a DevOps engineer passionate about building resilient infrastructure, automating deployment pipelines, and solving real-world problems with code and cloud. I enjoy contributing to the developer ecosystem by creating practical solutions, sharing knowledge, and building tools for solo developers and teams.
