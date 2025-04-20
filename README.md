@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Amiynarh
 
+![Profile Views](https://komarev.com/ghpvc/?username=Amiynarh&color=blue)
+
+## 🏆 GitHub Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amiynarh&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 DevOps Engineer | Cloud & Infrastructure Automation | 🎥 Tech Educator on [YouTube](https://youtube.com/@aminalawal3999)
 
 I’m a DevOps engineer passionate about building resilient infrastructure, automating deployment pipelines, and solving real-world problems with code and cloud. I enjoy contributing to the developer ecosystem by creating practical solutions, sharing knowledge, and building tools for solo developers and teams.
@@ -29,7 +34,7 @@ I’m a DevOps engineer passionate about building resilient infrastructure, auto
 ### 🧰 Tools & Technologies
 
 #### ☁️ Cloud Infrastructure
-- AWS, GCP, Azure
+- AWS, GCP
 
 #### 📦 Containers & Orchestration
 - Docker, Kubernetes, Helm
