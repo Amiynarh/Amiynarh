@@ -42,6 +42,12 @@ I’m a DevOps engineer passionate about building resilient infrastructure, auto
 
 ---
 
+### ✍👩🏽‍💻 Check Out My Website
+
+I write about DevOps concepts, tutorials in a clear and beginner-friendly way.  
+👉 [**Check it out**](https://aminalawal.com)
+
+---
 ### 🎥 Check Out My YouTube
 
 I break down DevOps concepts, project walkthroughs, and tutorials in a clear and beginner-friendly way.  
