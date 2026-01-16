@@ -12,23 +12,23 @@ I’m a DevOps engineer passionate about building resilient infrastructure, auto
 
 ---
 
-### 🧑‍💻 Projects I've Built
+### Projects I've Built
 
-- ⚙️ **Database Migration Service**  
-  A robust service to migrate SQL & PostgreSQL databases across GCP Cloud Studio and AWS RDS with minimal downtime.
+- **Database Migration Service**  
+  A robust service to migrate SQL & PostgreSQL databases across GCP Cloud Studio and AWS RDS with minimal downtime. - Confidential
 
-- 📅 **Intelligent Timetable Generator**  
+- **Intelligent Timetable Generator**  
   Built with a **Genetic Algorithm**, this tool automatically creates optimal university timetables based on multiple academic constraints.
 
-- 🔧 **DevOps for Solo Devs** *(Coming Soon)*  
+- **DevOps for Solo Devs** *(Coming Soon)*  
   A complete, production-ready **CI/CD and cloud infrastructure template** designed specifically for solo developers and indie hackers.
 
 ---
 
-### 📚 Certifications (In Progress)
+###  Certifications
 
-- 🎯 **PCA** (Python Certified Associate)  
-- ☸️ **CKAD** (Certified Kubernetes Application Developer)
+-  **PCA** (Google Professional Cloud Architect)  
+-  **CKAD** (Certified Kubernetes Application Developer)
 
 ---
 
@@ -39,19 +39,19 @@ I’m a DevOps engineer passionate about building resilient infrastructure, auto
 
 ---
 
-### ✍👩🏽‍💻 Check Out My Website
+###  Check Out My Website
 
 I write about DevOps concepts, tutorials in a clear and beginner-friendly way.  
 [**Check it out**](https://aminalawal.com)
 
-### 🎥 Check Out My YouTube
+### Check Out My YouTube
 
 I break down DevOps concepts, project walkthroughs, and tutorials in a clear and beginner-friendly way.  
 [**Subscribe to my channel**](https://youtube.com/@aminalawal3999)
 
-### 📫 Connect With Me
+### Connect With Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/aminalawalofficial) *(replace this with your link)*
+- 🔗 [LinkedIn](https://linkedin.com/in/aminalawalofficial) 
 - 📧 hello@aminalawal.com
 
 
