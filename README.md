@@ -1,60 +1,64 @@
-# 👋 Hi, I'm Amiynarh
+# Hi, I’m Amiynarh (Amina Lawal)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amiynarh&color=blue)
+[![Profile Views](https://komarev.com/ghpvc/?username=Amiynarh&color=blue)](https://github.com/Amiynarh)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amiynarh&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!---![Amiynarh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amiynarh&show_icons=true&theme=github_dark)--->
----
-DevOps Engineer | Cloud & Infrastructure Automation | 🎥 Tech Educator on [YouTube](https://youtube.com/@aminalawal3999)
-
-I’m a DevOps engineer passionate about building resilient infrastructure, automating deployment pipelines, and solving real-world problems with code and cloud. I enjoy contributing to the developer ecosystem by creating practical solutions, sharing knowledge, and building tools for solo developers and teams.
-
----
-
-### Projects I've Built
-
-- **Database Migration Service**  
-  A robust service to migrate SQL & PostgreSQL databases across GCP Cloud Studio and AWS RDS with minimal downtime. - Confidential
-
-- **Intelligent Timetable Generator**  
-  Built with a **Genetic Algorithm**, this tool automatically creates optimal university timetables based on multiple academic constraints.
-
-- **DevOps for Solo Devs** *(Coming Soon)*  
-  A complete, production-ready **CI/CD and cloud infrastructure template** designed specifically for solo developers and indie hackers.
+<p align="left">
+  <a href="https://aminalawal.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Website-aminalawal.com-2bbc8a?style=for-the-badge&logo=about.me" alt="Website"/>
+  </a>
+  <a href="https://www.youtube.com/@devopsbyamina" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube"/>
+  </a>
+  <a href="https://linkedin.com/in/aminalawalofficial" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-###  Certifications
+## About me
+DevOps Engineer • Cloud & Infrastructure Automation • Tech educator
 
--  **PCA** (Google Professional Cloud Architect)  
--  **CKAD** (Certified Kubernetes Application Developer)
+I build resilient infrastructure and practical automation for cloud-native apps. I make DevOps approachable through tutorials and project walkthroughs on my blog and YouTube channel.
 
----
-
-<br>
-<h3 align="left">My Tech Stack:</h3>
-<p align="left"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://storage.googleapis.com/bkt-static-content/terraform.png" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/bkt-static-content/terraform.png" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="gs://bkt-static-content/sql.png" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/bkt-static-content/sql.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  </p>
-
+- I’m currently building: infrastructure templates and automation patterns for solo devs and small teams  
+- I’m learning: advanced GCP patterns and reusable infrastructure modules  
+- Ask me about: CI/CD, Terraform, Kubernetes, GCP & developer workflows  
+- Reach me: hello@aminalawal.com
 
 ---
 
-###  Check Out My Website
+## Featured project
 
-I write about DevOps concepts, tutorials in a clear and beginner-friendly way.  
-[**Check it out**](https://aminalawal.com)
+- **Intelligent Timetable Generator** — automated university timetables using a Genetic Algorithm
 
-### Check Out My YouTube
+---
 
-I break down DevOps concepts, project walkthroughs, and tutorials in a clear and beginner-friendly way.  
-[**Subscribe to my channel**](https://youtube.com/@aminalawal3999)
+## Certifications & Highlights
+- Google Professional Cloud Architect (PCA)  
+- Certified Kubernetes Application Developer (CKAD)  
+- Tech educator on YouTube: https://www.youtube.com/@devopsbyamina
 
-### Connect With Me
+---
 
-- 🔗 [LinkedIn](https://linkedin.com/in/aminalawalofficial) 
-- 📧 hello@aminalawal.com
+## Tech Snapshot
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
+  <img src="https://storage.googleapis.com/bkt-static-content/terraform.png" width="40" height="40" alt="terraform"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="gcp"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="k8s"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="docker"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="bash"/>
+</p>
 
+---
 
-> *"Thanks for stopping by! 🌍"*
+## Quick Links
+- Website: https://aminalawal.com  
+- YouTube: https://www.youtube.com/@devopsbyamina  
+- Email: hello@aminalawal.com  
+- LinkedIn: https://linkedin.com/in/aminalawalofficial
 
+---
 
+> Thanks for stopping by.
