@@ -1,5 +1,4 @@
-# Hi, I’m Amiynarh (Amina Lawal)
-
+# Hi, I’m Amina
 [![Profile Views](https://komarev.com/ghpvc/?username=Amiynarh&color=blue)](https://github.com/Amiynarh)
 
 <p align="left">
